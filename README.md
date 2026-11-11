@@ -28,10 +28,11 @@ An Arduino-based project combining physical controls, a rotary encoder, an OLED 
 
 **Focus:** Embedded programming, C++, electronics, hardware integration
 
-### Data Structures Visualizer
-An interactive project exploring tree structures, insertion operations, and balancing algorithms.
+### Inficon Confluence Menu
+This was a Project that utilized uploading files and documents that would survey through a confluence page to see data related too and around.
+This project was used to shorten time for searching and uploading information to there sites and allow for faster lookups. 
 
-**Focus:** Algorithms, visualization, problem-solving
+**Focus:** Java, JavaFX
 
 ## 📈 What I'm Working Toward
 
